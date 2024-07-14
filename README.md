@@ -35,4 +35,5 @@ I will fix these issues whenever I have time.
 Email: luneirastra759@gmail.com
 
 Discord: luneirastra
+
 Use these in case you have suggestions
