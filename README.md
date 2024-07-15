@@ -19,7 +19,7 @@ Screenshots here: https://imgur.com/a/fNbgnk2
 
 * Pip-boy Engineer HUD does not work correctly
 
-* MVM Medic charge meter overlapping with the Übercharge meter
+* MVM Medic Shield meter overlapping with the Übercharge meter
 
 * Payload race red cart icon texture missing
 
