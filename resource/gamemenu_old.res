@@ -108,4 +108,29 @@
 		"subimage"		"glyph_alert"
 		"tooltip"		"#MMenu_ReportPlayer"
 	}
+    	"ReloadHudSchemeButton"
+ 	{
+		"label"			""
+		"command"		"hud_reloadscheme"
+		"OnlyInGame"	"1"
+		"subimage"		"icon_checkbox"
+		"tooltip"	"#Reloads_Your_Hud"
+	}
+	"FixVisualIssuesButton"
+	{
+		"label"			""
+		"command"		"record fix;stop"
+		"OnlyInGame"	"1"
+		"subimage"		"glyph_alert"
+		"tooltip"		"#Fixes_Visual_Issues"
+	}
+	"FixSoundIssuesButton"
+	{	
+		"label"			""
+		"command"		"snd_restart"
+		"OnlyInGame"	"1"
+		"subimage"		"glyph_alert"
+		"tooltip"		"#Fixes_Sound_Issues"
+	}
+
 }
